@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme utama setelah splash -->
+    <style name="Theme.FindIT" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Theme splash -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+
+        <!-- Background splash -->
+        <item name="windowSplashScreenBackground">#0F172A</item>
+
+        <!-- ICON (pakai bawaan Android biar aman) -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- Hilangkan background putih icon -->
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+
+        <!-- Durasi animasi -->
+        <item name="windowSplashScreenAnimationDuration">800</item>
+
+        <!-- Theme setelah splash -->
+        <item name="postSplashScreenTheme">@style/Theme.FindIT</item>
+
+    </style>
+
+</resources>
