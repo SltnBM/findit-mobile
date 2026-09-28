@@ -1,4 +1,4 @@
-# FindIT
+# FindIT - Mobile
 A modern Lost and Found mobile application and RESTful API system built with Jetpack Compose, Kotlin, Laravel, and MySQL.
 
 <p align="center">
@@ -47,7 +47,7 @@ A modern Lost and Found mobile application and RESTful API system built with Jet
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SltnBM/findit.git
+https://github.com/SltnBM/findit-mobile.git
 cd findit
 ```
 
