@@ -2,7 +2,7 @@
 A modern Lost and Found mobile application and RESTful API system built with Jetpack Compose, Kotlin, Laravel, and MySQL.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SltnBM/findit/main/FindIT/app/src/main/res/drawable/logo_findit.png" width="220" alt="FindIT Logo">
+  <img src="https://raw.githubusercontent.com/SltnBM/findit-mobile/main/FindIT/app/src/main/res/drawable/logo_findit.png" width="220" alt="FindIT Logo">
 </p>
 
 <p align="center">
